@@ -161,7 +161,7 @@ Memory Size: 128 MB  Max Memory Used: 40 MB
 
 ## 🛠️ Technologies Used
 - **AWS Lambda** — Serverless compute platform
-- **Python 3.14** — Function runtime
+- **Python 3.14.0** — Function runtime
 - **IAM Execution Role** — Least-privilege permissions
 - **Amazon CloudWatch** — Execution logging and monitoring
 - **AWS Console Test Events** — Mock API invocation
